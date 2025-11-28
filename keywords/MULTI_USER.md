@@ -8,7 +8,7 @@
 
 ## 参考文献
 
-- [マルチユーザーとは](https://knowledge.sakura.ad.jp/)
+- [マルチユーザーとは](https://e-words.jp/w/%E3%83%9E%E3%83%AB%E3%83%81%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC.html)
 
 ## 作成者
 
